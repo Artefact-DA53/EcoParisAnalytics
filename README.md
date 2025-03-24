@@ -2,6 +2,9 @@
 
 Ce dépôt contient les données et analyses du projet final de la formation Data Analyst (DA53).
 
+## Contexte
+Ce projet analyse les données environnementales de Paris pour comprendre l'évolution des indicateurs écologiques dans la ville.
+
 ## Structure du projet
 
 ### 00 - Setup
@@ -31,5 +34,3 @@ Analyses et traitements de données.
 ### 04 - General-Fil Conducteur
 Documents de suivi et organisation du projet.
 
-## Contexte
-Ce projet analyse les données environnementales de Paris pour comprendre l'évolution des indicateurs écologiques dans la ville.
