@@ -19,3 +19,6 @@ st.write("This is outside the container")
 # The Google Looker Studio embed URL
 looker_studio_url = "https://lookerstudio.google.com/embed/reporting/71eda937-0da5-4ba2-93f5-80bf2bcc8c53/page/FtaEF"
 components.iframe(looker_studio_url, width=600 , height=450)
+
+looker_studio_url_perso = "https://lookerstudio.google.com/embed/reporting/2d7a0e27-262c-410e-b077-5a5c3f21ea9f/page/5JCAF"
+components.iframe(looker_studio_url_perso, width=600 , height=450)
