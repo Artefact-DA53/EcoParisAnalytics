@@ -23,8 +23,8 @@ components.iframe(looker_studio_url, width=600 , height=450)
 looker_studio_url_perso = "https://lookerstudio.google.com/embed/reporting/2d7a0e27-262c-410e-b077-5a5c3f21ea9f/page/5JCAF"
 components.iframe(looker_studio_url_perso, width=600 , height=450)
 
-looker_studio_test1 = "https://lookerstudio.google.com/u/0/reporting/7bf485a0-a8fe-42f2-8b70-edd378537114"
+looker_studio_test1 = "https://lookerstudio.google.com/embed/reporting/7bf485a0-a8fe-42f2-8b70-edd378537114"
 components.iframe(looker_studio_test1, width=600 , height=450)
 
-looker_studio_test2 = "https://lookerstudio.google.com/u/0/reporting/d35067f8-fc92-4887-95ff-27ce3e56b1de"
+looker_studio_test2 = "https://lookerstudio.google.com/embed/reporting/d35067f8-fc92-4887-95ff-27ce3e56b1de"
 components.iframe(looker_studio_test2, width=600 , height=450)
