@@ -1,0 +1,11 @@
+db-types
+pandas 
+numpy 
+os
+shapely
+# libs nécessaires pour requêter BigQuery
+google.cloud 
+bigquery
+google.oauth2 
+service_account
+
