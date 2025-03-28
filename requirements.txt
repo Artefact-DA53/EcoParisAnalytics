@@ -1,2 +1,16 @@
+<<<<<<< HEAD
+db-types
+pandas 
+numpy 
+os
+shapely
+# libs nécessaires pour requêter BigQuery
+google.cloud 
+bigquery
+google.oauth2 
+service_account
+
+=======
 numpy==2.2.4
 streamlit==1.43.2
+>>>>>>> 886495c88a16fc663423c978f7826eeabdc43b0b

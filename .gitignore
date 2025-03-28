@@ -12,9 +12,12 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< HEAD
 # CSV
 *.csv
 
+=======
+>>>>>>> 4c89aed9295c344f38019df60e9e055c08fcfc98
 # Distribution / packaging
 .Python
 env/
